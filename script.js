@@ -190,9 +190,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    printButton.addEventListener('click', () => {
-        window.print();
-    });
+    // printButton.addEventListener('click', () => {
+    //     window.print();
+    // });
 
     openDB();
 });
